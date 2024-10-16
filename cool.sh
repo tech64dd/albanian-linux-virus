@@ -1,0 +1,1 @@
+dialog $DIALOG_COMMON --title "Virus Alert!" --msgbox "Hi, I am an Albanian virus but because of poor technology in my country unfortunately I am not able to harm your computer. Please be to kind to delete one of your important files yourself end then forward me to other users. Many thanks for your cooperation! Best regards,Albanian virus" 12 60
